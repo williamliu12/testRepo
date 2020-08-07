@@ -259,3 +259,36 @@ p{
 }
 
 /* End of Footer CSS */
+
+
+/* Animations */
+
+.nav-animate{
+  animation: fadeInDown 2s;
+}
+
+.big-logo{
+  animation: fadeInLeft 4s;
+}
+
+.main-name{
+  animation: fadeAnim 3s;
+}
+
+.name-desc{
+  animation: fadeAnim 4s;
+}
+
+@keyframes fadeAnim{
+  0%{
+    opacity: 0%;
+  }
+  50%{
+    opacity: 0%;
+  }
+  100%{
+    opacity: 100%;
+  }
+}
+
+/* End of Animations */

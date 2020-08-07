@@ -11,7 +11,7 @@ const MainScreen = () => {
       <div className='big-logo-div'>
         <img className='big-logo' src={bigLogo} alt='bigLogo'></img>
       </div>
-      <nav>
+      <nav className = 'nav-animate'>
         <ul className='nav-bar'>
           <li className='logo'>
             <img src={logoW} alt='logo'></img>
