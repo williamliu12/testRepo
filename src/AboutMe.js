@@ -15,7 +15,7 @@ const AboutMe = () => {
                     Hi there, I'm Will.
                     </p>
                     <p>
-                    I am web developer and I am passionate in improving myself and in helping others through my work.
+                    I am a web developer and I am passionate in improving myself and in helping others through my work.
                     </p>
                     <p>
                     I started coding about two years ago after starting university in Arizona. I am determined to learn something new every single day and I am always opened to new opportunites to improve and create. My hobbies include coding, video editing, dancing and skateboarding. Always intrigued by what others are going through and what they have build/created in their live times.

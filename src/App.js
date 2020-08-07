@@ -4,6 +4,8 @@ import MainScreen from './MainScreen';
 import AboutMe from './AboutMe';
 import Skills from './Skills';
 import Projects from './Projects';
+import Contact from './Contact';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
     <AboutMe/>
     <Skills/>
     <Projects/>
+    <Contact/>
+    <Footer/>
     </div>
   );
 };

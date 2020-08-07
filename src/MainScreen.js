@@ -2,6 +2,7 @@ import React from 'react';
 import logoW from './WilliamLiu/SVGs/WL Logo/WL-rounded-colored.svg'
 import williamLiu from './WilliamLiu/SVGs/WilliamLiu.svg';
 import bigLogo from './WilliamLiu/SVGs/WL-Bkg.svg'
+import { Link } from "react-scroll";
 
 const MainScreen = () => {
   return (
@@ -16,7 +17,15 @@ const MainScreen = () => {
             <img src={logoW} alt='logo'></img>
           </li>
           <li>
-            <button className='contact-btn'>Contact</button>
+          <Link
+            className='contact-btn'
+            activeClass="active"
+            to="contact-cont"
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={1000}
+          >Contact</Link>
           </li>
         </ul>
       </nav>

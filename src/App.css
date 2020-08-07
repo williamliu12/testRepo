@@ -63,7 +63,7 @@ a{
 }
 
 .main-name{
-  width: 65%;
+  width: 75%;
 }
 
 .name-desc{
@@ -166,6 +166,7 @@ p{
   font-family: 'Montserrat', sans-serif;
   color: #16354F;
   flex-direction: column;
+  padding-bottom: 8em;
 }
 
 .projects-word{
@@ -195,7 +196,6 @@ p{
   width: 80%;
   border: 4px solid;
   border-radius: 50px;
-  
   border-color: #FFAB9B;
 }
 
@@ -203,3 +203,59 @@ p{
   border-color: #16354F;
 }
 /* End of Projects CSS */
+
+/* Contact CSS */
+
+.contact-cont{
+  display: flex;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #16354F;
+  flex-direction: column;
+}
+
+.contact-word{
+  font-size: 2em;
+  font-weight: 700;
+  padding-bottom: 1em;
+}
+
+.lets-connect{
+  font-size: 1.5em;
+  font-weight: 500;
+  padding-bottom: 2em;
+}
+
+.email-me{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 3em;
+}
+
+.contact-area{
+  display: flex;
+  justify-content: space-around;
+  padding: 1em;
+  padding-bottom: 4em;
+}
+
+.social-icons{
+  width: 50%;
+}
+/* End of Contact CSS */
+
+/* Footer CSS */
+
+.footer-cont{
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 70%;
+  font-style: italic;
+  padding: 3em 4em;
+  color: #16354F;
+  background-color: rgb(252, 234, 231);
+}
+
+/* End of Footer CSS */
