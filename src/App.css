@@ -59,7 +59,7 @@ a{
 .name-div{
   display: flex;
   justify-content: center;
-  padding-top: 7em;
+  padding-top: 2em;
 }
 
 .main-name{
@@ -271,10 +271,12 @@ p{
 
 .main-name{
   animation: fadeAnim 3s;
+  animation-fill-mode: both;
 }
 
 .name-desc{
   animation: fadeAnim 4s;
+  animation-fill-mode: both;
 }
 
 @keyframes fadeAnim{
