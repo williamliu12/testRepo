@@ -11,21 +11,21 @@ const MainScreen = () => {
       <div className='big-logo-div'>
         <img className='big-logo' src={bigLogo} alt='bigLogo'></img>
       </div>
-      <nav className = 'nav-animate'>
+      <nav className='nav-animate'>
         <ul className='nav-bar'>
           <li className='logo'>
-            <img src={logoW} alt='logo'></img>
+            <a href='https://willliu.dev/'><img src={logoW} alt='logo'></img></a>
           </li>
           <li>
-          <Link
-            className='contact-btn'
-            activeClass="active"
-            to="contact-cont"
-            spy={true}
-            smooth={true}
-            offset={-70}
-            duration={1000}
-          >Contact</Link>
+            <Link
+              className='contact-btn'
+              activeClass="active"
+              to="contact-cont"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={1000}
+            >Contact</Link>
           </li>
         </ul>
       </nav>
