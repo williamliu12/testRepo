@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import './Media.css';
 import MainScreen from './MainScreen';
 import AboutMe from './AboutMe';
 import Skills from './Skills';
