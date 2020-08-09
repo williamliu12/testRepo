@@ -267,12 +267,10 @@ p{
 
 .main-name{
   animation: fadeInDown 3s;
-  animation-fill-mode: both;
 }
 
 .name-desc{
   animation: fadeInUp 3s;
-  animation-fill-mode: both;
 }
 
 /* @keyframes fadeAnim{
