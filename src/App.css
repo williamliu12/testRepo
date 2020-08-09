@@ -81,7 +81,6 @@ a{
 .about-me-cont{
   padding: 20em 3em;
   padding-bottom: 9em;
-
 }
 
 .about-me-pic{
@@ -270,7 +269,7 @@ p{
 }
 
 .name-desc{
-  animation: fadeInUp 3s;
+  animation: fadeIn 3s;
 }
 
 /* @keyframes fadeAnim{

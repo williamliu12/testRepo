@@ -1,5 +1,29 @@
 /* Media Queries */
 
+@media screen and (max-width: 375px){
+    .name-div{
+        padding: 0;
+    }
+    .name-desc{
+        padding: 2em;
+    }
+    .about-me-cont{
+        padding: 15em 2.5em;
+        padding-bottom: 9em;
+      }
+}
+@media screen and (max-width: 414px){
+    .name-div{
+        padding: 0;
+    }
+    .name-desc{
+        padding: 2em;
+    }
+    .about-me-cont{
+        padding: 15em 2.5em;
+        padding-bottom: 9em;
+      }
+}
 @media screen and (min-width: 768px){
     .name-desc{
         font-size: 2em;
