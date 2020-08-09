@@ -265,11 +265,13 @@ p{
 }
 
 .main-name{
-  animation: fadeInDown 3s;
+  animation: fadeIn 2s;
+  animation-timing-function: ease-in;
 }
 
 .name-desc{
-  animation: fadeIn 3s;
+  animation: fadeInUp 3s;
+  animation-timing-function: ease-out;
 }
 
 /* @keyframes fadeAnim{

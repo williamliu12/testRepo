@@ -1,23 +1,14 @@
 /* Media Queries */
 
-@media screen and (max-width: 375px){
-    .name-div{
-        padding: 0;
-    }
-    .name-desc{
-        padding: 2em;
-    }
-    .about-me-cont{
-        padding: 15em 2.5em;
-        padding-bottom: 9em;
-      }
-}
 @media screen and (max-width: 414px){
+    .nav-bar{
+        padding-bottom: .5em;
+    }
     .name-div{
         padding: 0;
     }
     .name-desc{
-        padding: 2em;
+        padding: 1em;
     }
     .about-me-cont{
         padding: 15em 2.5em;
