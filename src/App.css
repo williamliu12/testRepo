@@ -266,16 +266,16 @@ p{
 }
 
 .main-name{
-  animation: fadeAnim 3s;
+  animation: fadeInDown 3s;
   animation-fill-mode: both;
 }
 
 .name-desc{
-  animation: fadeAnim 4s;
+  animation: fadeInUp 3s;
   animation-fill-mode: both;
 }
 
-@keyframes fadeAnim{
+/* @keyframes fadeAnim{
   0%{
     opacity: 0%;
   }
@@ -285,6 +285,6 @@ p{
   100%{
     opacity: 100%;
   }
-}
+} */
 /*Test*/
 /* End of Animations */
