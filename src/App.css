@@ -171,28 +171,32 @@ p{
   display: flex;
   justify-content: center;
   flex-direction:column;
-  font-size: 1.5em;
+  font-size: 2em;
   font-weight: 500;
 }
 
-.mood-link-word{
+.apps-link-word{
   padding-bottom: 1em;
 }
 
-.mood-link:hover{
+.apps-link:hover{
   cursor: pointer;
   text-decoration: underline;
 }
 
-.mood-pic{
+.apps-pic{
   width: 80%;
   border: 4px solid;
   border-radius: 50px;
-  border-color: #FFAB9B;
+  border-color: white;
 }
 
-.mood-pic:hover{
+.apps-pic:hover{
   border-color: #16354F;
+}
+
+#recipe-app-link{
+  padding-bottom: 3em;
 }
 /* End of Projects CSS */
 
