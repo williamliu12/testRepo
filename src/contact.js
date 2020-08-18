@@ -16,7 +16,7 @@ const Contact = () => {
             <div>
                 <div className='email-me'>
                     <div>
-                        Email Me: <a href='mailto:williamliu204@gmail.com'>Williamliu204@gmail.com</a>
+                        Email Me: <a className = 'email-line' href='mailto:williamliu204@gmail.com'>Williamliu204@gmail.com</a>
                     </div>
                 </div>
                 <ul className='contact-area'>

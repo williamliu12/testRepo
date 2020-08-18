@@ -229,6 +229,10 @@ p{
   font-weight: 500;
 }
 
+.email-line:hover{
+  text-decoration: underline;
+}
+
 .contact-area{
   display: flex;
   justify-content: space-around;
@@ -239,6 +243,7 @@ p{
 .social-icons{
   width: 50%;
 }
+
 /* End of Contact CSS */
 
 /* Footer CSS */
@@ -278,16 +283,4 @@ p{
   animation-timing-function: ease-out;
 }
 
-/* @keyframes fadeAnim{
-  0%{
-    opacity: 0%;
-  }
-  50%{
-    opacity: 0%;
-  }
-  100%{
-    opacity: 100%;
-  }
-} */
-/*Test*/
 /* End of Animations */
