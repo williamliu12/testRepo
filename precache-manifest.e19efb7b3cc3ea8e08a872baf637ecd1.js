@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "036ae45ed68bbcb9dd49ca2a0a175dbe",
+    "revision": "b9d220c6f8a7d9d84e54df5c634f5744",
     "url": "/index.html"
   },
   {
-    "revision": "c50fbf96b30a24fd66ee",
-    "url": "/static/css/main.d0390bef.chunk.css"
+    "revision": "56cf89c7359ac174613d",
+    "url": "/static/css/main.0175c8e0.chunk.css"
   },
   {
     "revision": "d49e7b853f42101ff2e9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.20b97635.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c50fbf96b30a24fd66ee",
-    "url": "/static/js/main.026c4533.chunk.js"
+    "revision": "56cf89c7359ac174613d",
+    "url": "/static/js/main.bc3e12c0.chunk.js"
   },
   {
     "revision": "237d40d307de4feb4fbf",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MoodAppPic.cf25dbcb.png"
   },
   {
-    "revision": "a46da51d90ff3df6462fe4b0a6bffe6b",
-    "url": "/static/media/RecipeAppPic.a46da51d.png"
+    "revision": "6ad3cdeb9edf2c3da776df2b22507fdb",
+    "url": "/static/media/RecipeAppPic.6ad3cdeb.png"
   },
   {
     "revision": "a51d75e966910f0e03a3434c907e7483",
